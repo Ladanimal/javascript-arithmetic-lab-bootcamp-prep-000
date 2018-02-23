@@ -17,7 +17,7 @@ it('multiply(a, b) multiplies two numbers and returns the result', function() {
   })
 })
 
-describes("divide", function () {
+describe("divide", function () {
 it('divide(a, b) divides a by b and returns the result', 
   function() {
   expect(divide(a, b)).toEqual(a / b)

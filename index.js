@@ -30,3 +30,4 @@ var makeInt = function (n) {
   return parseInt(n, 10) 
 }
   
+var = function preserveDecimal(n)

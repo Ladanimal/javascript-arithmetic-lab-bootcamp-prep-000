@@ -25,6 +25,8 @@ var dec = function (n) {
   return a - 1;
 }
 
-varmakeInt = function (n)
+var makeInt = function (n) {
+  return parseInt(n)
+}
   
 }

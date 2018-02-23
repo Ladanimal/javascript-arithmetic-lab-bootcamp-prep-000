@@ -37,7 +37,7 @@ it('dec(n) decrements n and returns the result',
 
 describe('makeInt(n)', function() {
   it('parses n as an integer and returns the parsed integer', function() {
-    expect(makeInt(a.parseInt(n)).toEqual(a)
+    expect(makeInt(n)).toEqual(a)
   })
 
   it('assumes base 10', function() {

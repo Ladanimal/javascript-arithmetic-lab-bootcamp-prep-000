@@ -18,7 +18,8 @@ var divide = function (a, b) {
 }
 
 var inc = function (n) {
-  return a + 1;
+  return a++;
 }
 
 var dec = function (n)
+  return a--

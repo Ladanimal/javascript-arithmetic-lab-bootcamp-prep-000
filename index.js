@@ -16,3 +16,5 @@ var multiply = function (a, b) {
 var divide = function (a, b) {
   return a / b;
 }
+
+function inc(c)

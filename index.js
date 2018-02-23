@@ -22,8 +22,6 @@ var inc = function (n) {
   return a + 1;
 }
 
-
-
 var dec = function (n) {
   return a - 1;
 }

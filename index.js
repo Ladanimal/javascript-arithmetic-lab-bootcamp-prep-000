@@ -13,6 +13,6 @@ var multiply = function (a, b) {
   return a * b;
 }
 
-var  = function divide(a, b) {
+var divide = function (a, b) {
   return a / b;
 }

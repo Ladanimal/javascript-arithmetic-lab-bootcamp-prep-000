@@ -8,3 +8,7 @@ var subtract = function(a, b) {
 
 var a=2
 var b=1
+
+function multliply(a, b) {
+  return a*b
+}

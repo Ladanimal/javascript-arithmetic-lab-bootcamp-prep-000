@@ -21,5 +21,6 @@ var inc = function (n) {
   return a++;
 }
 
-var dec = function (n)
-  return a--
+var dec = function (n) {
+  return a--;
+}

@@ -25,4 +25,4 @@ var dec = function (n) {
   return a - 1;
 }
 
-var 
+var makeInt(n) = function (n)

@@ -4,7 +4,6 @@ describe("add" function() {
     expect(add(a, b)
     .toEqual(a + b)
   })
-    
 })
 
 it('subtract(a, b) subtracts b from a and returns the result', function() {

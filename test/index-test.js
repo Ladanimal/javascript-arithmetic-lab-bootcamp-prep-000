@@ -1,10 +1,9 @@
-describe("add"); function () {
+describe("add", function () {
 it('adds (a, b) two numbers and returns the result', 
-function() {
-  expect(add(a, b).toEqual(a + b))
+  function() {
+    expect(add(a, b).toEqual(a + b))
+  })
 })
-
-
 it('subtract(a, b) subtracts b from a and returns the result', function() {
   expect(subtract(a, b)).toEqual(a - b)
 })

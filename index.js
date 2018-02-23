@@ -21,4 +21,4 @@ var inc = function (n) {
   return a + 1;
 }
 
-vardec function (n)
+var dec = function (n)

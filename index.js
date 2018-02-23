@@ -12,3 +12,7 @@ var b=1
 var multiply = function (a, b) {
   return a * b;
 }
+
+function divide(a, b) {
+  return a / b:
+}

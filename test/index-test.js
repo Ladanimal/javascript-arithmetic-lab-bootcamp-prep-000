@@ -17,8 +17,11 @@ it('multiply(a, b) multiplies two numbers and returns the result', function() {
   })
 })
 
+describes("divide", function () {
 it('divide(a, b) divides a by b and returns the result', function() {
-  expect(divide(a, b)).toEqual(a / b)
+  expect(divide(a, b)).toEqual(a / b
+  )
+  })
 })
 
 it('inc(n) increments n and returns the result', function() {

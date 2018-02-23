@@ -20,3 +20,5 @@ var divide = function (a, b) {
 var inc = function (n) {
   return a + 1;
 }
+
+var dec = function

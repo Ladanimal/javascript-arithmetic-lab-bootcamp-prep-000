@@ -9,6 +9,6 @@ var subtract = function(a, b) {
 var a=2
 var b=1
 
-multliplyfunction (a, b) {
+var multliply = function (a, b) {
   return a*b
 }

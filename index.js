@@ -8,6 +8,7 @@ var subtract = function(a, b) {
 
 var a=2
 var b=1
+var n="2"
 
 var multiply = function (a, b) {
   return a * b;

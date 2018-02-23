@@ -1,7 +1,7 @@
-add = function(a, b) { 
+var add = function(a, b) { 
   return a + b;
 }
 
-subtract = function(a, b) {
+var subtract = function(a, b) {
   return a - b;
 }
